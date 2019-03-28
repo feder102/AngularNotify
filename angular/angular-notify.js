@@ -16,7 +16,8 @@ service('$notify', function(){
 	var position = 'toast-bottom-left';
 
 	var time = 5000; // milisegundos
-	var timehover = 1000;
+	var timehover = 1000;sad
+	
 
 	var showCloseButton = true; // Muestra el boton de cerrar notificacion
 	var showProgressBar = true; // Muestra la barra bajo la notificacion
